@@ -1,0 +1,114 @@
+body{
+  background-color: #e2e2e2;
+  font-family: 'Roboto', sans-serif;
+}
+
+#header{
+  background-color: #203047;
+  color: white;
+
+}
+nav { max-width: 1000px;
+  margin: 0 auto;
+    display: flex;
+  
+  align-items: center;
+  justify-content: space-between;
+}
+nav > span {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.perfil {
+    display: flex;
+  
+  align-items: center;
+  justify-content: space-between;
+}
+
+.perfil > img {
+
+  margin: 5px ;
+  width: 50px;
+  border-radius: 50%;
+}
+.perfil > .name {
+  margin-left: 10px;
+}
+
+.perfil > .name > .nome1 {
+  font-size: 22px;
+  font-weight: bold;
+
+}
+.tarefa{
+display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 700px;
+}
+
+span {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 20px;
+ 
+
+}
+main .inspirar div.post { 
+  color: red;
+  width: 400px;
+  height: auto;
+  border-radius: 20px;
+  padding: 20px;
+  color: white;
+  text-align: center;
+
+ }
+ .post {
+  background: linear-gradient(to right, #141e30, #243b55);
+  margin: 20px;
+ }
+
+
+.inspirar {display: flex;
+align-items: center;
+justify-content: center;}
+
+
+
+section > h1 {text-align: center;
+  margin-right: 700px;
+}
+.form{display: flex;
+ text-align: center;
+
+  justify-content: center;
+ 
+}
+.form > input {
+  width: 700px;
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+  margin-right: 20px;
+}
+
+.form > button{
+  cursor: pointer;
+padding: 8px 20px;
+ background-color: #f5d01f;
+ border: none;
+ border-radius: 5px;
+}
+.form > button:hover{
+  opacity:  0.8 ;
+  }
+.tarefaslista {text-align: center;
+}
+
+.zoom  {color:#203047;
+  font-size: 24px;
+  font-weight: bold;
+}
