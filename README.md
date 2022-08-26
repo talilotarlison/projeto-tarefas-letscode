@@ -16,5 +16,5 @@
 
 ## projeto da imersão da LetsCode.
 
-## detalhes da tarefa.
-# Projeto de gerenciamento de tarefas feito com uso de html css e js.
+## 🏷️ detalhes da tarefa.
+## Projeto de gerenciamento de tarefas feito com uso de html css e js.
