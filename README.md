@@ -14,7 +14,7 @@
 
 # projeto-tarefas-letscode
 
-#projeto da imersão da LetsCode.
+# 🥇projeto da imersão da LetsCode.
 
 ## 🏷️ detalhes da tarefa.
 ## Projeto de gerenciamento de tarefas feito com uso de html css e js.
