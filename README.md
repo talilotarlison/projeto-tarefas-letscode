@@ -16,5 +16,10 @@
 
 ### 🥇projeto da imersão da LetsCode.
 
+## Tecnologias
+- HTML
+- CSS
+- JS
+
 ### 🏷️ detalhes da tarefa.
 ### Projeto de gerenciamento de tarefas feito com uso de html css e js.
